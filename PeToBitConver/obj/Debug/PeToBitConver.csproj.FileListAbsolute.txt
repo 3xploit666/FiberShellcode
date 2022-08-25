@@ -1,0 +1,11 @@
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\bin\Debug\PeToBitConver.exe.config
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\bin\Debug\PeToBitConver.exe
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\bin\Debug\PeToBitConver.pdb
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.csproj.AssemblyReference.cache
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.csproj.SuggestedBindingRedirects.cache
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.Form1.resources
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.Properties.Resources.resources
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.csproj.GenerateResource.cache
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.csproj.CoreCompileInputs.cache
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.exe
+C:\Users\d4rkc\source\repos\PeToBitConver\PeToBitConver\obj\Debug\PeToBitConver.pdb
